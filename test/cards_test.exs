@@ -17,7 +17,6 @@ defmodule CardsTest do
       "J of Spades", "Q of Spades", "K of Spades", "A of Spades"
     ]
   end
-end
 
 test "shuffle/1 shuffles the deck" do
   deck = Cards.create_deck()
@@ -52,3 +51,4 @@ end
 ## 5.3.3. Running the tests
 # Run the tests with the following command:
 # $ mix test
+end
