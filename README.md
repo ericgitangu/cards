@@ -1,6 +1,6 @@
 # Cards
 
-## TODO: Add description
+## This is a simple app that simulates the common functionality of a card game, dealing, shuffling, creating a deck and demoonstrates the use of both doctest and case-tests
 
 ## Installation
 
@@ -15,6 +15,6 @@ def deps do
 end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/cards>.
+Please check the [Documentation](./doc) for more detailed information.
+
+Please refer to the [Tests](./test) for more detailed information.
