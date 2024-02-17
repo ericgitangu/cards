@@ -1,6 +1,8 @@
 # Cards
 
-## This is a simple app that simulates the common functionality of a card game, dealing, shuffling, creating a deck and demoonstrates the use of both doctest and case-tests
+## Introduction
+
+### This is a simple app that simulates the common functionality of a card game, dealing, shuffling, creating a deck and demoonstrates the use of both doctest and case-tests
 
 ## Installation
 
